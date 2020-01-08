@@ -1,0 +1,77 @@
+.upload {
+    // width: 100%;
+    // padding: 20px 20px;
+    // background: antiquewhite;
+    margin-bottom: 20px;
+    text-align: center;
+
+  button {
+    margin: 8px;
+  }
+}
+.dash{
+  // background-image: url(back.jpg);
+  background-color: #e4e4e4;
+  min-height: 100vh;
+
+}
+.img-con { 
+    img {
+        width: 100%;
+        height: auto;
+        max-width: 600px;
+    }
+}
+table {
+  width: 100%;
+}
+.cardde{
+  padding: 40px 0px;
+  // display: flex;
+  // justify-content: center;
+}
+mat-grid-tile {
+  background: lightblue;
+}
+mat-card{
+  display: flex;
+  justify-content: space-between;
+}
+.countStyle{
+  background: #ded34d;
+  width: 20%;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+.example-header-image.user {
+  // background-image: url('user.png');
+  background-size: cover;
+  border-radius: 0px;
+  margin-top: 19px;
+  background-repeat: no-repeat;
+}
+.example-header-image.delete {
+  // background-image: url('delete.png');
+  background-size: cover;
+  border-radius: 0px;
+  margin-top: 19px;
+  background-repeat: no-repeat;
+}
+.example-header-image.uploaded {
+  // background-image: url('upload.png');
+  background-size: cover;
+  border-radius: 0px;
+  margin-top: 19px;
+  background-repeat: no-repeat;
+}
+.countText{
+  font-size: 18px;
+  font-weight: 300;
+}
+.btnClr{
+  background-color: #585858;
+}
+.viewbtn{
+  color: #585858;
+}

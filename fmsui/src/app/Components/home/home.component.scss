@@ -1,0 +1,33 @@
+// .bg{
+//     width: 100%;
+//     height: 100%;
+//     background-image: url("../../../assets/bg.jpg");
+//     background-repeat: no-repeat;
+//     background-size: cover;
+// }
+// .fileHeading{
+//     color: #fdcb16;
+//     text-align: center;
+//     font-size: 45px;
+//     padding-top: 4em;
+// }
+// .fullwidth{
+//         margin-top: -6em;
+// }
+
+mat-card{
+width: 325px;
+height: auto;
+display: flex;
+justify-content: center;
+margin: 0 auto;
+margin-top: 12em;
+padding: 50px;
+}
+
+.Loginbtn{
+display: flex !important;
+flex-direction: row-reverse;
+justify-content: space-between;
+margin-top: -48px;
+}
